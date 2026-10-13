@@ -1,6 +1,6 @@
 #Datos del alumno
 
-Maeía Fernanda Hernández Avalos
+María Fernanda Hernández Avalos
 196008-1
 Grupo GF
 
